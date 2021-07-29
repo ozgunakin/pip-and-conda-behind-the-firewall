@@ -12,6 +12,7 @@ When I was working in a corporate company, we have faced an issue. Internet acce
 https://pypi.python.org
 https://pypi.org
 https://pythonhosted.org
+https://files.pythonhosted.org/
 https://conda.binstar.org/numba/win-64/
 https://conda.anaconda.org/
 https://binstar.org/
