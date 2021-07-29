@@ -22,13 +22,8 @@ https://pypi.python.org/
 
 ## References
 
-{% embed url="https://stackoverflow.com/questions/14277088/what-url-should-i-authorize-to-use-pip-behind-a-firewall" %}
-
-{% embed url="https://stackoverflow.com/questions/33778507/unable-to-update-conda-packages-behind-corporate-firewall-updated-condarc-file" %}
-
-{% embed url="https://packaging.python.org/glossary/\#term-Python-Package-Index-PyPI" %}
-
-{% embed url="https://en.wikipedia.org/wiki/Pip\_\(package\_manager\)" %}
-
-
+* [https://stackoverflow.com/questions/14277088/what-url-should-i-authorize-to-use-pip-behind-a-firewall](https://stackoverflow.com/questions/14277088/what-url-should-i-authorize-to-use-pip-behind-a-firewall)
+* [https://stackoverflow.com/questions/33778507/unable-to-update-conda-packages-behind-corporate-firewall-updated-condarc-file](https://stackoverflow.com/questions/33778507/unable-to-update-conda-packages-behind-corporate-firewall-updated-condarc-file)
+* [https://packaging.python.org/glossary/\#term-Python-Package-Index-PyPI](https://packaging.python.org/glossary/#term-Python-Package-Index-PyPI)
+* [https://en.wikipedia.org/wiki/Pip\_\(package\_manager\)](https://en.wikipedia.org/wiki/Pip_%28package_manager%29)
 
