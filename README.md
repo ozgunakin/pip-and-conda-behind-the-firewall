@@ -19,6 +19,7 @@ https://binstar.org/
 https://anaconda.org/
 https://repo.continuum.io/
 https://pypi.python.org/
+https://repo.anaconda.com
 ```
 
 ## References
